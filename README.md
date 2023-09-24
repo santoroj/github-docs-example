@@ -76,7 +76,7 @@ RuntimeError: This is a custom error message
 
 ## Step 3 - Use Github Flavored Markdown Task Lists
 
-Githib extends Mardown to have a list where you can check off items. <sup>[1]</sup>
+Githib extends Mardown to have a list where you can check off items [<sup>[1]</sup>](#external-references)
 
 - [x] Finish Step 1
 - [ ] Finish Step 2
@@ -93,17 +93,27 @@ Here are some examples
 
 
 # Step 5 - How to create a table
+
+You can use the following mardown format to create tables:
+
 ``md
 | Name | Shortcode | Emoji |
 | --- | --- | --- |
 | Cloud | `:cloud:` | :cloud: |
-| Cloud | `:cloud_with_lighting:` | 🌩️ |
+| Cloud with lighting | `:cloud_with_lighting:` | 🌩️ |
+
+
+Github extends the functionality of Markdown tables to provide more alignment and tables formatting options.[<sup>[2]</sup>](#external-references)
+
+
+<img src="https://github.com/santoroj/github-docs-example/assets/2011384/e762e0f2-7d45-47eb-a292-be829e1ad7a3" alt="Pipe Character" width="250" />
 
 
 
-## References
+## External References
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [GitHub Flavored Markdown Spec ](https://github.github.com/gfm)
 - [Original Website Example](https://github.com/omenking/github-docs-example))
 - [GFM - Github Flavored Markdown Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)  <sup>[1]</sup>
 - [GTM - Emoji CheatSheet](https://github.com/ikatyang/emoji-cheat-sheet)
+- [GFM - Tables ( with extensions ) ](https://githib.github.com/gfm/#tables-extension-)<sup>[2]</sup>
