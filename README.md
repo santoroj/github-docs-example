@@ -76,6 +76,14 @@ RuntimeError: This is a custom error message
 
 >Here  is a an exmample of using  a codeblocfor an error that appears in Ruby.
 
+## Step 2 - How to take screenshots
+
+A screenshot is when you capture a part of your screen from your laptop, desktop or phone
+
+Ths is not to be confused with taking a photo with your phone.
+
+
+
 ## Step 3 - Use Github Flavored Markdown Task Lists
 
 Githib extends Mardown to have a list where you can check off items [<sup>[1]</sup>](#External-References)
@@ -107,6 +115,9 @@ You can use the following mardown format to create tables:
 
 Github extends the functionality of Markdown tables to provide more alignment and tables formatting options.[<sup>[2]</sup>](#external-references)
 
+- Make not of where the pipe key button is located
+- In the attached photo the pipe key is between the space bar and Alt Gr key
+  
 <img src="assets/pipe-char.jpg" alt="Photo of a screenshot of a pipe character" width="250" />
 
 
