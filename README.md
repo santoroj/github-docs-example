@@ -82,7 +82,11 @@ A screenshot is when you capture a part of your screen from your laptop, desktop
 
 Ths is not to be confused with taking a photo with your phone.
 
+**DON'T DO THIS**
+<img src="assets/code-screenshot.png" alt="Screenshot of a code" width="550" />
 
+This is what a screenshot from you computer should look like
+<img src="assets/code-screenshot.png" alt="Screenshot of a code" width="550" />
 
 ## Step 3 - Use Github Flavored Markdown Task Lists
 
