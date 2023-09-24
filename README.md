@@ -57,8 +57,53 @@ person1 = Person.new("Alice", 30)
 puts person1.greeting
 ```
 
+- Make not of where the backtick button is located
+- It shoule appear between the escape and tab key but it may vary based on your keyboard.
+
+![keyboard-smaller](https://github.com/santoroj/github-docs-example/assets/2011384/41355506-9216-4f48-9cb2-1ec80ac9bd1b)
+
+
+Good Cloud Engineers use codeblocks for both code and errors tat appean in the console.
+
+```bash
+Traceback (most recent call last):
+   2: from /usr/bin/irb:23:in `<main>`
+   1: from (irb):1 
+RuntimeError: This is a custom error message
+```
+
+>Here  is a an exmample of using  a codeblocfor an error that appears in Ruby.
+
+## Step 3 - Use Github Flavored Markdown Task Lists
+
+Githib extends Mardown to have a list where you can check off items. <sup>[1]</sup>
+
+- [x] Finish Step 1
+- [ ] Finish Step 2
+- [x] Finish Step 3
+
+# Step 4 - Use Emojis (Optional)
+Github Flavored Mardown (GFM) supports emoji shortcodes
+Here are some examples
+
+| Name | Shortcode | Emoji |
+| --- | --- | --- |
+| Cloud | `:cloud:` | :cloud: |
+| Cloud | `:cloud_with_lighting:` | 🌩️ |
+
+
+# Step 5 - How to create a table
+``md
+| Name | Shortcode | Emoji |
+| --- | --- | --- |
+| Cloud | `:cloud:` | :cloud: |
+| Cloud | `:cloud_with_lighting:` | 🌩️ |
 
 
 
-
-
+## References
+- [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [GitHub Flavored Markdown Spec ](https://github.github.com/gfm)
+- [Original Website Example](https://github.com/omenking/github-docs-example))
+- [GFM - Github Flavored Markdown Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)  <sup>[1]</sup>
+- [GTM - Emoji CheatSheet](https://github.com/ikatyang/emoji-cheat-sheet)
