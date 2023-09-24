@@ -62,6 +62,8 @@ puts person1.greeting
 
 ![keyboard-smaller](https://github.com/santoroj/github-docs-example/assets/2011384/41355506-9216-4f48-9cb2-1ec80ac9bd1b)
 
+Note the above image is in the assests directory but we are not using that file here.
+
 
 Good Cloud Engineers use codeblocks for both code and errors tat appean in the console.
 
@@ -76,7 +78,7 @@ RuntimeError: This is a custom error message
 
 ## Step 3 - Use Github Flavored Markdown Task Lists
 
-Githib extends Mardown to have a list where you can check off items [<sup>[1]</sup>](#external-references)
+Githib extends Mardown to have a list where you can check off items [<sup>[1]</sup>](#External-References)
 
 - [x] Finish Step 1
 - [ ] Finish Step 2
@@ -105,8 +107,8 @@ You can use the following mardown format to create tables:
 
 Github extends the functionality of Markdown tables to provide more alignment and tables formatting options.[<sup>[2]</sup>](#external-references)
 
+<img src="assets/pipe-char.jpg" alt="Photo of a screenshot of a pipe character" width="250" />
 
-<img src="https://github.com/santoroj/github-docs-example/assets/2011384/e762e0f2-7d45-47eb-a292-be829e1ad7a3" alt="Pipe Character" width="250" />
 
 
 
