@@ -101,7 +101,7 @@ Ths is not to be confused with taking a photo with your phone.
 
 ## Step 3 - Use Github Flavored Markdown Task Lists
 
-Githib extends Mardown to have a list where you can check off items [^1]
+Githib extends Mardown to have a list where you can check off items <sup>[1]</sup>
 
 - [x] Finish Step 1
 - [x] Finish Step 2
@@ -142,6 +142,6 @@ Github extends the functionality of Markdown tables to provide more alignment an
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [GitHub Flavored Markdown Spec ](https://github.github.com/gfm)
 - [Original Website Example](https://github.com/omenking/github-docs-example))
-- [GFM - Github Flavored Markdown Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)  [^1]
+- [GFM - Github Flavored Markdown Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup>[1]</sup>
 - [GTM - Emoji CheatSheet](https://github.com/ikatyang/emoji-cheat-sheet)
 - [GFM - Tables ( with extensions ) ](https://githib.github.com/gfm/#tables-extension-)<sup>[2]</sup>
